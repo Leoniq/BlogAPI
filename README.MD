@@ -13,3 +13,5 @@ List of installed bundles with the pre-configured symfony bundle:
 * [**HateoasBundle**] - A PHP library to support implementing representations for HATEOAS REST web services
 
 * [**JMSSerializerBundle**] - Easily serialize, and deserialize data of any complexity (supports XML, JSON, YAML)
+
+P.S. This test case does not use authorization. It just demonstrates sample code
